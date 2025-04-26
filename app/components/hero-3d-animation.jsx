@@ -13,11 +13,7 @@ import {
   SoftShadows,
 } from "@react-three/drei"
 import { motion } from "framer-motion"
-import { Button } from "@/components/ui/button"
-import { ArrowRight } from 'lucide-react'
-import Link from "next/link"
 import { useMediaQuery } from "../hooks/use-mobile"
-// import { useMediaQuery } from "@/hooks/use-mobile"
 
 // Cycle phases with colors
 const cyclePhases = [
