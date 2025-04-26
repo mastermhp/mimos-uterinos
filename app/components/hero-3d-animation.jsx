@@ -12,7 +12,7 @@ import {
   Html,
   SoftShadows,
 } from "@react-three/drei"
-import { motion } from "framer-motion-3d"
+import { motion } from "framer-motion"
 import { Button } from "@/components/ui/button"
 import { ArrowRight } from 'lucide-react'
 import Link from "next/link"
