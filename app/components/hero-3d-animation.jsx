@@ -12,7 +12,7 @@ import {
   Html,
   SoftShadows,
 } from "@react-three/drei"
-import { motion } from "framer-motion"
+import { motion } from "framer-motion-3d"
 import { useMediaQuery } from "../hooks/use-mobile"
 
 // Cycle phases with colors
